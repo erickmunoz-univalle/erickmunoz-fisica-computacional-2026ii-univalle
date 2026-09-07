@@ -1,3 +1,3 @@
 # erickmunoz-fisica-computacional-univalle
-Repositorio de tareas y proyectos del curso Física Computacional (Univalle, 2026)
-Repositorio de tareas — Física Computacional 106018C
+Cali, Valle. Univalle 2026-2
+Repositorio de tareas y proyectos del curso Física Computacional (106018C)
