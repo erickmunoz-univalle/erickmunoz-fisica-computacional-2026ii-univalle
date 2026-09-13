@@ -9,3 +9,4 @@ En esta carpeta se encuentran los códigos y notebooks trabajados en **Google Co
 
 Estos archivos muestran el proceso de programación, pruebas y resultados obtenidos durante el taller.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erickmunoz-univalle/erickmunoz-fisica-computacional-2026ii-univalle/blob/main/taller1/colab/taller1_colab.ipynb)
