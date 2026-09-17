@@ -5,4 +5,4 @@ En esta carpeta se encuentran los códigos y notebooks trabajados en **Google Co
 ### Contenido
 - `taller1_colab.ipynb` → Notebook principal con el desarrollo en Colab.
 
-Estos archivos muestran el proceso de programación, pruebas y resultados obtenidos durante el taller.
+Este archivo muestra el proceso de programación, pruebas y resultados obtenidos durante el taller.
