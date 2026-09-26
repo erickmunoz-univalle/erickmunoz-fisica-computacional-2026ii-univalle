@@ -4,6 +4,7 @@ En esta carpeta se encuentran los códigos y notebooks trabajados en **Google Co
 
 ### Contenido
 - `taller2_colab.ipynb` → Notebook principal con el desarrollo en Colab.
+- `reporte_taller2.pdf` → Reporte principal del taller.
 
 Este archivo muestra el proceso de programación, pruebas y resultados obtenidos durante el taller.
 
