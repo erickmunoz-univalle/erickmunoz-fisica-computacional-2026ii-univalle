@@ -9,6 +9,5 @@ En esta carpeta se encuentran los códigos, archivos y notebooks trabajados en *
 - `taller3_colab.ipynb` → Notebook principal con el desarrollo en Colab.
 - `pendulo_limpio.dat` → Script de limpieza de los datos.
 - `resultados_ajuste.dat` → Datos de resultados del ajuste lineal por mínimos cuadrados.
-- `reporte_taller3.pdf` → Reporte principal del taller.
 
 Estos archivos muestran el proceso de programación, pruebas y resultados obtenidos durante el taller.
