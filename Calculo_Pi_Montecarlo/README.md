@@ -4,5 +4,8 @@ En esta carpeta se encuentran los códigos y notebooks trabajados en **Google Co
 
 ### Contenido
 - `taller5_colab.ipynb` → Notebook principal con el desarrollo en Colab.
-
+- `ajuste_pendulo_y_residuos.png` → Imágenes de las gráficas del ajuste del péndulo y residuos.
+- `informe_limpieza.xlsx` → Informe de limpieza de los datos.
+- `taller3_colab.ipynb` → Notebook principal con el desarrollo en Colab.
+- `pendulo_limpio.dat` → Script de limpieza de los datos.
 Este archivo muestra el proceso de programación, pruebas y resultados obtenidos durante el taller.
