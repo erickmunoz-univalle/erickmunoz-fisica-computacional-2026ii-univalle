@@ -8,4 +8,5 @@ En esta carpeta se encuentran los códigos y notebooks trabajados en **Google Co
 - `informe_limpieza.xlsx` → Informe de limpieza de los datos.
 - `taller3_colab.ipynb` → Notebook principal con el desarrollo en Colab.
 - `pendulo_limpio.dat` → Script de limpieza de los datos.
+
 Este archivo muestra el proceso de programación, pruebas y resultados obtenidos durante el taller.
