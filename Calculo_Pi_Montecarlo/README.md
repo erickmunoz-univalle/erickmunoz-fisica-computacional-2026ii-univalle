@@ -1,0 +1,8 @@
+# Cálculo de  Pi - Método Montecarlo
+
+En esta carpeta se encuentran los códigos y notebooks trabajados en **Google Colab** para el Taller 5 del curso de Física Computacional (Univalle 2026-2).
+
+### Contenido
+- `taller5_colab.ipynb` → Notebook principal con el desarrollo en Colab.
+
+Este archivo muestra el proceso de programación, pruebas y resultados obtenidos durante el taller.
