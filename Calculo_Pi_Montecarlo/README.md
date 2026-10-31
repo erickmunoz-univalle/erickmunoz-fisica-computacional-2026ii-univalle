@@ -4,9 +4,13 @@ En esta carpeta se encuentran los códigos y notebooks trabajados en **Google Co
 
 ### Contenido
 - `taller5_colab.ipynb` → Notebook principal con el desarrollo en Colab.
-- `ajuste_pendulo_y_residuos.png` → Imágenes de las gráficas del ajuste del péndulo y residuos.
-- `informe_limpieza.xlsx` → Informe de limpieza de los datos.
-- `taller3_colab.ipynb` → Notebook principal con el desarrollo en Colab.
-- `pendulo_limpio.dat` → Script de limpieza de los datos.
+- `convergencia_pi.png` → • Imagen de la gráfica de convergencia estadística para la estimación de π.
+- `diagrama_de_flujo_t5.png` → Imagen del diagrama de flujo del algoritmo implementado.
+- `taller5_pi.f90` → Código fuente en FORTRAN para analizar la convergencia del estimador de π.
+- `taller5_seno.f90` → Código fuente en FORTRAN para la integración numérica de la función seno mediante dos métodos.
+- `taller5_lcg.f90` →  Código fuente en FORTRAN para evaluar el efecto del generador lineal congruencial deficiente.
+- `convergencia.dat` → Archivo de datos con los resultados de las iteraciones, medias y desviaciones estándar.
+- `lcg.dat` → Archivo de datos con las estimaciones sesgadas producidas por el generador LCG.
+- `pendiente.dat` → Archivo de datos con el valor calculado de la pendiente de ajuste por mínimos cuadrados.
 
 Este archivo muestra el proceso de programación, pruebas y resultados obtenidos durante el taller.
